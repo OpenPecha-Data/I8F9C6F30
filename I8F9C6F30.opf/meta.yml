@@ -1,0 +1,49 @@
+id: I8F9C6F30
+legacy_id: null
+ocr_import_info:
+  bdrc_scan_id: W2DB4578
+  source: bdrc.io
+  batch_id: batch003
+  software_id: vision
+  expected_default_language: bo
+  ocr_info: {}
+  op_import_options: {}
+  op_import_version: 0.9.7
+default_language: bo
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-11-01T09:31:47.977569+00:00'
+last_modified: '2022-11-01T09:31:47.977574+00:00'
+parser: null
+source_metadata:
+  id: http://purl.bdrc.io/resource/W2DB4578
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  reproduction_of: http://purl.bdrc.io/resource/MW2DB4578
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། གཞན་ཕན་ཆོས་ཀྱི་སྣང་བ།
+  languages:
+  - bo
+  author: རྒྱ་ཀོང་མཁན་ཆེན་གཞན་ཕན་ཆོས་ཀྱི་སྣང་བ།
+statistics:
+  ocr_word_mean_confidence_index: 0.9968071292225962
+  ocr_word_median_confidence_index: 1.0
+quality: null
+bases:
+  I1PD35552:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1PD35552
+      total_pages: 208
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I1PD35552.txt
+    statistics:
+      ocr_word_median_confidence_index: 1.0
+      ocr_word_mean_confidence_index: 0.9968071292225962
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
